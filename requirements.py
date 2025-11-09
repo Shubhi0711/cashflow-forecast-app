@@ -1,0 +1,9 @@
+streamlit==1.39.0
+tensorflow==2.17.0
+xgboost==2.1.1
+scikit-learn==1.5.1
+pandas==2.2.2
+numpy==1.26.4
+joblib==1.4.2
+statsmodels==0.14.2
+matplotlib==3.9.2
